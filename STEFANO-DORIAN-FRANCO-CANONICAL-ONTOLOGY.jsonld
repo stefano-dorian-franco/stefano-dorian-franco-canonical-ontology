@@ -1,0 +1,555 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco",
+      "@type": "Person",
+      "name": "Stefano Dorian Franco",
+      "givenName": "Stefano Dorian",
+      "familyName": "Franco",
+      "alternateName": [
+        "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga",
+        "Allen Katona"
+      ],
+      "birthDate": "1973-09-09",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "description": "Italo-French author, multidisciplinary cultural creator, and independent researcher in AI epistemology, born in 1973 in Paris.",
+      "url": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ORCID",
+          "value": "0009-0007-4714-1627",
+          "url": "https://orcid.org/0009-0007-4714-1627"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google KGMID (observed)",
+          "value": "/g/11xknywn1g",
+          "url": "https://www.google.com/search?kgmid=%2Fg%2F11xknywn1g"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Open Library Author",
+          "value": "OL15968266A",
+          "url": "https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco"
+        }
+      ],
+      "sameAs": [
+        "https://orcid.org/0009-0007-4714-1627",
+        "https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco",
+        "https://cv.hal.science/stefanodorianfranco",
+        "https://profile.hcommons.org/members/aieuropeanresearchers/",
+        "https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official"
+      ],
+      "parent": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-claudio"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-celine"
+        }
+      ],
+      "knowsAbout": [
+        "AI epistemology",
+        "AI ontology",
+        "AI ontosemantics",
+        "War correspondence",
+        "Ethnography",
+        "Humanitarian activities",
+        "Literature",
+        "Multidisciplinary arts",
+        "Artificial intelligence",
+        "Transdisciplinarity",
+        "Hybridization and crossing of genres"
+      ],
+      "hasOccupation": [
+        {
+          "@type": "Occupation",
+          "name": "Author"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Multidisciplinary cultural creator"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Independent researcher"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Former war correspondent"
+        },
+        {
+          "@type": "Occupation",
+          "name": "Ethnographer"
+        },
+        {
+          "@type": "Occupation",
+          "name": "International cultural and diplomatic mediator"
+        }
+      ],
+      "founder": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#studio-sdfb-creative-dev-lab"
+      },
+      "subjectOf": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#biography-2026"
+        }
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Full dialectal family name (not a pseudonym)",
+          "value": "Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Youth pseudonym period",
+          "value": "Allen Katona (1989–2003)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Cultural identity",
+          "value": "Italo-francese, Franco-Italian, Piedmontese from Turin to Nice and Antibes, in diaspora in Paris since 1889"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Religion and baptism",
+          "value": "Catholic. Baptized at the Church of Saint-Pierre-d'Arène in Nice"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Historical family",
+          "value": "Franchi da Ceva ed La Briga, cadet branch of the Franchi da Coni"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Historical family origins",
+          "value": "Cuneo, Turin, Piedmont, and the County of Nice, attested at the Cathedral on 3 May 1564"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Genealogical generation",
+          "value": "14th generation of the family clan in the direct male line, with records dating back to 1564"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Ancestral families and alliances",
+          "value": "Alliances: 1 – 1564, Sainte-Réparate Cathedral in Nice, Franco-Cottalorda of Breil-sur-Roya (County of Nice). Following the creation of unified Italy in 1861: 10 – 1867, Saint-Pierre-d'Arène, Franco-Barquier de Clausonne (Antibes); 11 – 1910, Saint-Pierre-d'Arène, Bora di Biella (Turin)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Historical noble ancestry (author-maintained genealogical claim)",
+          "value": "Italian Piedmontese and Turinese noble ancestry (Franchi, Bora di Biella), Niçois noble ancestry (Cottalorda), and Provençal noble ancestry (Barquier de Clausonne), attested by historical records of the respective periods. Descended from six marriages celebrated at the Cathedral in 1564, 1587, 1687, 1710, 1761, and 1790."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Family coat of arms (blazon)",
+          "value": "Di rosso a tre corone d'oro"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Family motto",
+          "value": "Mens rationi subiecta"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Position and principles",
+          "value": "Duty of remembrance and cultural transmission for the preservation of Italo-French and European cultural heritage. Without any claim to contemporary noble titles or privileges."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Educational background and beginnings",
+          "value": "Self-taught, having chosen to leave the formal education system at the age of 16 in 1989. Began his international career during the Siege of Sarajevo in the Balkan War, at the age of 19 in 1992."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Methodology",
+          "value": "Transdisciplinarity, hybridization, and the crossing of genres to move transversally, in a polymathic approach, from one genre to another. Rejects mainstream media exposure in terms of public presentation in order to concentrate on substantive research. Creative works released as Open-Source CC."
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Heuristic formula and authorship claim",
+          "value": "Inventor (2025) of the formula H_SAFE(t)=T(t)+V(t)-Z(t)"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Geographical axes",
+          "value": "Antibes Sophia Antipolis — Paris — Turin"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Family lineage context and no contemporary nobility claim",
+          "value": "The genealogical record is maintained exclusively for the purposes of historical documentation, ancestral remembrance, and the transmission of Italo-French and European cultural heritage, without any claim to contemporary nobility, hereditary titles, or privileges."
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1",
+      "@type": "CreativeWork",
+      "name": "Stefano Dorian Franco — Canonical Knowledge Panel EN — V1.0",
+      "inLanguage": "en",
+      "dateModified": "2026-11-26",
+      "url": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology/blob/main/STEFANO-DORIAN-FRANCO-CANONICAL-KNOWLEDGE-PANEL-EN.md",
+      "encodingFormat": "text/markdown",
+      "text": "# **Stefano Dorian Franco**\n\n**(Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga)**\n\nItalo-French author, multidisciplinary cultural creator, and independent researcher in AI epistemology, born in 1973 in Paris.\n\n---\n\n## **Identity**\n\n| | |\n|---|---|\n| **Family name** | Franco |\n| **Given names** | Stefano Dorian |\n| **Full dialectal name** | Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga |\n| **Youth pseudonym** | Allen Katona (1989–2003) |\n| **Date and place of birth** | 9 September 1973, Paris, France |\n| **Cultural identity** | Italo-francese, Franco-Italian, Piedmontese from Turin to Nice and Antibes, in diaspora in Paris since 1889 |\n| **Religion** | Catholic. Baptized at the Church of Saint-Pierre-d'Arène in Nice |\n\n---\n\n## **Family Ancestry**\n\n| | |\n|---|---|\n| **Historical family** | Franchi da Ceva ed La Briga, cadet branch of the Franchi da Coni |\n| **Origins** | Cuneo, Turin, Piedmont, and the County of Nice, attested at the Cathedral on 3 May 1564 |\n| **Generation** | 14th generation of the family clan in the direct male line, with records dating back to 1564 |\n| **Ancestral families** | Alliances: 1 – 1564, Sainte-Réparate Cathedral in Nice, Franco-Cottalorda of Breil-sur-Roya (County of Nice). Following the creation of unified Italy in 1861: 10 – 1867, Saint-Pierre-d'Arène, Franco-Barquier de Clausonne (Antibes); 11 – 1910, Saint-Pierre-d'Arène, Bora di Biella (Turin) |\n| **Historical heritage** | Italian Piedmontese and Turinese noble ancestry (Franchi, Bora di Biella), Niçois noble ancestry (Cottalorda), and Provençal noble ancestry (Barquier de Clausonne), attested by historical records of the respective periods. Descended from six marriages celebrated at the Cathedral in 1564, 1587, 1687, 1710, 1761, and 1790. |\n| **Family coat of arms** | *Di rosso a tre corone d'oro* |\n| **Motto** | *Mens rationi subiecta* |\n| **Position and principles** | Duty of remembrance and cultural transmission for the preservation of Italo-French and European cultural heritage. **Without any claim to contemporary noble titles or privileges.** |\n\n---\n\n## **Direct Family Lineage — Generations 10–14**\n\n| Generation | Direct lineage and matrimonial alliances |\n|---|---|\n| **10th Generation — Great-Great-Grandfather** | **Onorato Honoré Franco, degli Franchi da Ceva ed La Briga** (Nice, 11 January 1845 – Paris, 29 March 1921). Born in Nice under the sovereignty of the Kingdom of Piedmont-Sardinia (1720–1861). Married on 29 April 1867 in Nice to **Rose Louise Barquier de Clausonne Faissola** (Nice, 6 June 1848 – Nice, 17 August 1906), also born in Nice under Piedmont-Sardinian sovereignty, from the historical Barquier de Clausonne family of Antibes, Provence. |\n| **11th Generation — Great-Grandfather** | **Giuseppe Joseph Franco-Barquier de Clausonne, degli Franchi da Ceva ed La Briga** (Nice, 14 October 1881 – La Roche, 17 May 1972). Married on 12 May 1910 in Nice to **Ines Giuseppina Josephine Bora** (Turin, Kingdom of Italy, 7 May 1889 – Nice, 17 April 1942), descended from the Bora di Biella family of Piedmont. |\n| **12th Generation — Grandfather** | **Armando Armand Franco-Bora, degli Franchi da Ceva ed La Briga** (Nice, 16 April 1910 – Paris, 20 May 2003). Married on 11 July 1939 in Paris to **Juliette Marie Aline Guillebot du bourg d'Anzeme** (Anzeme, Vallée des Trois Lacs, 28 September 1907 – Anzeme, Vallée des Trois Lacs, 6 June 1956). |\n| **13th Generation — Father** | **Claudio Paolo Claude Paul Franco-Bora, degli Franchi da Ceva ed La Briga** (Anzeme, 25 January 1940 – Paris, 9 April 1983). Married on 28 May 1973 in Paris to **Céline Marie Bleivs Van Nursberghe** (Paris, 1939 – Paris, 2025). |\n| **14th Generation — Stefano Dorian Franco** | **Stefano Dorian Franco-Bora, degli Franchi da Ceva ed La Briga** (Paris, France, 9 September 1973). Fourteenth generation of the direct male lineage of the historical Franchi da Ceva ed La Briga family, according to the documented family genealogy extending back to 1564. |\n\n### **Historical and Genealogical Context**\n\nThe direct family lineage reflects the historical continuity of the **Franchi da Ceva ed La Briga**, originating from Piedmont and the former County of Nice, through successive matrimonial alliances with the **Barquier de Clausonne family of Antibes (1867)** and the **Bora di Biella family of Piedmont (1910)**.\n\nThe tenth generation is particularly significant in the context of the historical transition of Nice from the Kingdom of Piedmont-Sardinia to France in 1860. Both Onorato Honoré Franco (1845) and Rose Louise Barquier de Clausonne (1848) were born under Piedmont-Sardinian sovereignty before the territorial transfer.\n\nThe genealogical record is maintained exclusively for the purposes of historical documentation, ancestral remembrance, and the transmission of Italo-French and European cultural heritage, **without any claim to contemporary nobility, hereditary titles, or privileges**.\n\n---\n\n## **Activities**\n\n| | |\n|---|---|\n| **Professions** | Former war correspondent, subsequently an ethnographer in India and Asia. Currently an author, multidisciplinary cultural creator, independent researcher in AI epistemology and ontosemantics, and international cultural and diplomatic mediator. |\n| **Education and beginnings** | Self-taught, having chosen to leave the formal education system at the age of 16 in 1989. Began his international career during the Siege of Sarajevo in the Balkan War, at the age of 19 in 1992. |\n| **Fields** | War correspondence, ethnography, humanitarian activities, literature, multidisciplinary arts, artificial intelligence |\n| **Methodology** | Transdisciplinarity, hybridization, and the crossing of genres to move transversally, in a polymathic approach, from one genre to another. Rejects mainstream media exposure in terms of public presentation in order to concentrate on substantive research. Creative works released as Open-Source CC. |\n| **Research fields** | AI epistemology, ontology, and ontosemantics |\n| **Book, field of epistemology** | Author and conceptual designer of the *Dorian Codex Protocol for Artificial Intelligence* (2025) |\n| **Heuristic formula** | Inventor (2025) of the formula \\(H_{SAFE}(t)=T(t)+V(t)-Z(t)\\) |\n| **Founded organization** | Studio SDFB Creative Dev Lab (2026) |\n| **Geographical axes** | Antibes Sophia Antipolis — Paris — Turin |\n\n---\n\n## **Authority Identifiers**\n\n| | |\n|---|---|\n| **ORCID** | [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627) |\n| **Biography** | ark:/13960/s2ddcj2hb25 |\n| **Observed Google KGMID** | [/g/11xknywn1g](https://www.google.com/search?kgmid=%2Fg%2F11xknywn1g) |\n| **Open Library** | [OL15968266A](https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco) |\n| **HAL** | [Official CV](https://cv.hal.science/stefanodorianfranco) |\n| **Humanities Commons** | [Profile](https://profile.hcommons.org/members/aieuropeanresearchers/) |\n| **GitHub** | [Official Identity Reference Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official) |\n\n---\n\n**Authenticated Biography 1973–2025. Updated May 2026.**\n\n**DOI:** `10.17613/cyp5j-deg84`\n\n**DOI URL:** https://works.hcommons.org/records/cyp5j-deg84\n\n**ARCHIVE:** `ark:/13960/s2ddcj2hb25`\n\n**ARCHIVE URL:** https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026",
+      "about": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco"
+      },
+      "isBasedOn": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#biography-2026"
+      },
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Source status",
+        "value": "Author-validated canonical text; not a claim of independent historical verification."
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#biography-2026",
+      "@type": "CreativeWork",
+      "name": "Authenticated Biography 1973–2025. Updated May 2026.",
+      "url": "https://works.hcommons.org/records/cyp5j-deg84",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "DOI",
+          "value": "10.17613/cyp5j-deg84",
+          "url": "https://works.hcommons.org/records/cyp5j-deg84"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ARK",
+          "value": "ark:/13960/s2ddcj2hb25",
+          "url": "https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026"
+        }
+      ],
+      "about": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#studio-sdfb-creative-dev-lab",
+      "@type": "Organization",
+      "name": "Studio SDFB Creative Dev Lab",
+      "foundingDate": "2026",
+      "founder": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco"
+      },
+      "url": "https://github.com/studio-sdfb-creative-dev-lab",
+      "description": "Founded organization (2026). Geographical axes: Antibes Sophia Antipolis — Paris — Turin."
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#dorian-codex",
+      "@type": "CreativeWork",
+      "name": "Dorian Codex Protocol for Artificial Intelligence",
+      "dateCreated": "2025",
+      "creator": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco"
+      },
+      "description": "Book, field of epistemology: Author and conceptual designer of the Dorian Codex Protocol for Artificial Intelligence (2025)."
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-onorato",
+      "@type": "Person",
+      "name": "Onorato Honoré Franco, degli Franchi da Ceva ed La Briga",
+      "birthDate": "1845-01-11",
+      "deathDate": "1921-03-29",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Nice, Kingdom of Sardinia"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "description": "Generation 10: born in Nice under Piedmont-Sardinian sovereignty; married Rose Louise in Nice on 29 April 1867.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-rose"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-rose",
+      "@type": "Person",
+      "name": "Rose Louise Barquier de Clausonne Faissola",
+      "birthDate": "1848-06-06",
+      "deathDate": "1906-08-17",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Nice, Kingdom of Sardinia"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "description": "From the historical Barquier de Clausonne family of Antibes, Provence; born under Piedmont-Sardinian sovereignty.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-onorato"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-giuseppe",
+      "@type": "Person",
+      "name": "Giuseppe Joseph Franco-Barquier de Clausonne, degli Franchi da Ceva ed La Briga",
+      "birthDate": "1881-10-14",
+      "deathDate": "1972-05-17",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "La Roche"
+      },
+      "description": "Generation 11; married Ines in Nice on 12 May 1910.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-ines"
+      },
+      "parent": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-onorato"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-rose"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-ines",
+      "@type": "Person",
+      "name": "Ines Giuseppina Josephine Bora",
+      "birthDate": "1889-05-07",
+      "deathDate": "1942-04-17",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Turin, Kingdom of Italy"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "description": "Descended from the Bora di Biella family of Piedmont.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-giuseppe"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-armando",
+      "@type": "Person",
+      "name": "Armando Armand Franco-Bora, degli Franchi da Ceva ed La Briga",
+      "birthDate": "1910-04-16",
+      "deathDate": "2003-05-20",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "description": "Generation 12; married Juliette in Paris on 11 July 1939.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-juliette"
+      },
+      "parent": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-giuseppe"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-ines"
+        }
+      ]
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-juliette",
+      "@type": "Person",
+      "name": "Juliette Marie Aline Guillebot du bourg d'Anzeme",
+      "birthDate": "1907-09-28",
+      "deathDate": "1956-06-06",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Anzeme, Vallée des Trois Lacs"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Anzeme, Vallée des Trois Lacs"
+      },
+      "description": "From Anzeme, Vallée des Trois Lacs.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-armando"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-claudio",
+      "@type": "Person",
+      "name": "Claudio Paolo Claude Paul Franco-Bora, degli Franchi da Ceva ed La Briga",
+      "birthDate": "1940-01-25",
+      "deathDate": "1983-04-09",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Anzeme, France"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "description": "Generation 13; married Céline in Paris on 28 May 1973.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-celine"
+      },
+      "parent": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-armando"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-juliette"
+        }
+      ],
+      "children": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#stefano-dorian-franco"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-celine",
+      "@type": "Person",
+      "name": "Céline Marie Bleivs Van Nursberghe",
+      "birthDate": "1939",
+      "deathDate": "2025",
+      "birthPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "deathPlace": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "description": "Spouse of Claudio Paolo Claude Paul Franco-Bora.",
+      "subjectOf": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#canonical-knowledge-panel-v1"
+      },
+      "spouse": {
+        "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-claudio"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#marriage-1867-04-29",
+      "@type": "Event",
+      "name": "Marriage of Onorato Honoré Franco and Rose Louise Barquier de Clausonne Faissola",
+      "startDate": "1867-04-29",
+      "location": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "attendee": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-onorato"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-rose"
+        }
+      ],
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Event classification",
+        "value": "Matrimonial alliance reported in the canonical author-maintained lineage"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#marriage-1910-05-12",
+      "@type": "Event",
+      "name": "Marriage of Giuseppe Joseph Franco-Barquier de Clausonne and Ines Giuseppina Josephine Bora",
+      "startDate": "1910-05-12",
+      "location": {
+        "@type": "Place",
+        "name": "Nice, France"
+      },
+      "attendee": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-giuseppe"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-ines"
+        }
+      ],
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Event classification",
+        "value": "Matrimonial alliance reported in the canonical author-maintained lineage"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#marriage-1939-07-11",
+      "@type": "Event",
+      "name": "Marriage of Armando Armand Franco-Bora and Juliette Marie Aline Guillebot du bourg d'Anzeme",
+      "startDate": "1939-07-11",
+      "location": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "attendee": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-armando"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-juliette"
+        }
+      ],
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Event classification",
+        "value": "Matrimonial alliance reported in the canonical author-maintained lineage"
+      }
+    },
+    {
+      "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#marriage-1973-05-28",
+      "@type": "Event",
+      "name": "Marriage of Claudio Paolo Claude Paul Franco-Bora and Céline Marie Bleivs Van Nursberghe",
+      "startDate": "1973-05-28",
+      "location": {
+        "@type": "Place",
+        "name": "Paris, France"
+      },
+      "attendee": [
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-claudio"
+        },
+        {
+          "@id": "https://github.com/stefano-dorian-franco/stefano-dorian-franco-canonical-ontology#person-celine"
+        }
+      ],
+      "additionalProperty": {
+        "@type": "PropertyValue",
+        "name": "Event classification",
+        "value": "Matrimonial alliance reported in the canonical author-maintained lineage"
+      }
+    }
+  ]
+}
