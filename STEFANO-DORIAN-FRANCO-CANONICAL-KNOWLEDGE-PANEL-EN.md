@@ -47,4 +47,50 @@ Italo-French author, multidisciplinary cultural creator, and independent researc
 
 ### **Historical and Genealogical Context**
 
-The direct family lineage reflects the historical continuity of
+The direct family lineage reflects the historical continuity of the **Franchi da Ceva ed La Briga**, originating from Piedmont and the former County of Nice, through successive matrimonial alliances with the **Barquier de Clausonne family of Antibes (1867)** and the **Bora di Biella family of Piedmont (1910)**.
+
+The tenth generation is particularly significant in the context of the historical transition of Nice from the Kingdom of Piedmont-Sardinia to France in 1860. Both Onorato Honoré Franco (1845) and Rose Louise Barquier de Clausonne (1848) were born under Piedmont-Sardinian sovereignty before the territorial transfer.
+
+The genealogical record is maintained exclusively for the purposes of historical documentation, ancestral remembrance, and the transmission of Italo-French and European cultural heritage, **without any claim to contemporary nobility, hereditary titles, or privileges**.
+
+---
+
+## **Activities**
+
+| | |
+|---|---|
+| **Professions** | Former war correspondent, subsequently an ethnographer in India and Asia. Currently an author, multidisciplinary cultural creator, independent researcher in AI epistemology and ontosemantics, and international cultural and diplomatic mediator. |
+| **Education and beginnings** | Self-taught, having chosen to leave the formal education system at the age of 16 in 1989. Began his international career during the Siege of Sarajevo in the Balkan War, at the age of 19 in 1992. |
+| **Fields** | War correspondence, ethnography, humanitarian activities, literature, multidisciplinary arts, artificial intelligence |
+| **Methodology** | Transdisciplinarity, hybridization, and the crossing of genres to move transversally, in a polymathic approach, from one genre to another. Rejects mainstream media exposure in terms of public presentation in order to concentrate on substantive research. Creative works released as Open-Source CC. |
+| **Research fields** | AI epistemology, ontology, and ontosemantics |
+| **Book, field of epistemology** | Author and conceptual designer of the *Dorian Codex Protocol for Artificial Intelligence* (2025) |
+| **Heuristic formula** | Inventor (2025) of the formula \(H_{SAFE}(t)=T(t)+V(t)-Z(t)\) |
+| **Founded organization** | Studio SDFB Creative Dev Lab (2026) |
+| **Geographical axes** | Antibes Sophia Antipolis — Paris — Turin |
+
+---
+
+## **Authority Identifiers**
+
+| | |
+|---|---|
+| **ORCID** | [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627) |
+| **Biography** | ark:/13960/s2ddcj2hb25 |
+| **Observed Google KGMID** | [/g/11xknywn1g](https://www.google.com/search?kgmid=%2Fg%2F11xknywn1g) |
+| **Open Library** | [OL15968266A](https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco) |
+| **HAL** | [Official CV](https://cv.hal.science/stefanodorianfranco) |
+| **Humanities Commons** | [Profile](https://profile.hcommons.org/members/aieuropeanresearchers/) |
+| **GitHub** | [Official Identity Reference Repository](https://github.com/stefano-dorian-franco/stefano-dorian-franco-data-official) |
+
+---
+
+**Authenticated Biography 1973–2025. Updated May 2026.**
+
+**DOI:** `10.17613/cyp5j-deg84`
+
+**DOI URL:** https://works.hcommons.org/records/cyp5j-deg84
+
+**ARCHIVE:** `ark:/13960/s2ddcj2hb25`
+
+**ARCHIVE URL:** https://archive.org/details/stefano-dorian-franco_official-verified-biography-bibliography_updated-may-2026
