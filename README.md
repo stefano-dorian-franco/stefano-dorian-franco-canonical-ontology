@@ -1,8 +1,6 @@
 # stefano-dorian-franco-canonical-ontology
 Official canonical ontology and factual identity reference for Stefano Dorian Franco (1973), including biography, genealogy, historical lineage, authority identifiers, and intellectual works.
 
-# Stefano Dorian Franco — Official Canonical Ontology
-
 **Official Canonical Ontology & Factual Identity Knowledge Base**
 
 **Entity:** Stefano Dorian Franco  
@@ -194,7 +192,6 @@ Bibliographic identifiers and publication claims should be linked to their corre
 | Authority / Source | Identifier or official URL |
 |---|---|
 | ORCID | https://orcid.org/0009-0007-4714-1627 |
-| Wikidata — Person | https://www.wikidata.org/wiki/Q134961735 |
 | Google KGMID (observed) | `/g/11xknywn1g` |
 | Open Library | https://openlibrary.org/authors/OL15968266A/Stefano_Dorian_Franco |
 | HAL | https://cv.hal.science/stefanodorianfranco |
